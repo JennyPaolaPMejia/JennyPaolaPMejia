@@ -24,7 +24,7 @@
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>Sobre mi</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -35,13 +35,13 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
+ * @param {string} location - Bogotá, Colombia.
+ * @param {string} languagues - Español.
+ * @param {string} jobTitle - Mechatronich Engineer.
  * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} hobbies -  Reading, gaming & playing music.
+ * @param {string} education - Universidad De Cundinamarca.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
